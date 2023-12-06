@@ -1,0 +1,9 @@
+.divide{
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 450px;
+}
+.ten{
+    margin: 30px;
+}
